@@ -7,7 +7,7 @@
   <img src="https://wallpaperaccess.com/full/2825710.gif" width="450" height="250"/>
 </div>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/KlotJota/KlotJota/blob/output/github-contribution-grid-snake.svg)
   
 
 
